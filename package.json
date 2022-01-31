@@ -1,0 +1,21 @@
+{
+  "name": "godaddyinterview",
+  "version": "1.0.0",
+  "description": "Calculator Application",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha --timeout 1000"
+  },
+  "author": "Danila Fanel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "mocha": "^9.2.0"
+  }
+}
